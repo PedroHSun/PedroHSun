@@ -1,9 +1,8 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1000&color=FF2A2A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Ol%C3%A1+meu+nome+%C3%A9+Pedro+Henrique...;Seja+bem+vindo!" alt="Olá meu nome é Pedro Henrique... Seja bem vindo!" />
+  <img src="nome-pixel.svg" alt="Olá, meu nome é Pedro Henrique. Seja bem vindo!" width="800" />
 </div>
-
 <div align="center>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&labelColor=000000)
@@ -16,7 +15,9 @@
 <div/>
 
 ## 🎮 `PERFIL`
+<div align="center">
 
+  Olá, meu nome é Pedro Henrique e sou um jovem estudante da Bahia que ama tecnologia, 
 ```diff
 + CLASSE: Desenvolvedor Full Stack       
 + LOCALIZAÇÃO: Salvador, Bahia - Brasil  
