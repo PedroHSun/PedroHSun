@@ -6,9 +6,8 @@
 
 <div align="center>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-FF0033?style=for-the-badge&labelColor=000000)
-![Class](https://img.shields.io/badge/CLASS-DEVELOPER-FF0033?style=for-the-badge&labelColor=000000)
-![Guild](https://img.shields.io/badge/GUILD-OPEN%20SOURCE-8A2BE2?style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&labelColor=000000)
+![Class](https://img.shields.io/badge/CLASS-DEVELOPER-8A2BE2?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -16,47 +15,37 @@
   <img src="farol-da-barra.svg" alt="Farol da Barra em pixel art" width="640" />
 <div/>
 
-## 🎮 `PLAYER_PROFILE.exe`
+## 🎮 `PERFIL`
 
-```yaml
-NOME: "Pedro Henrique"
-CLASSE: "Desenvolvedor de Software"
-LOCALIZAÇÃO: "Salvador, Bahia - Brasil"
-MISSÃO_ATUAL: "Evoluir como dev e construir projetos incríveis"
-ARMA_FAVORITA: "Teclado mecânico + café"
-
-<div align="center">
+```diff
++ CLASSE: Desenvolvedor Full Stack       
++ LOCALIZAÇÃO: Salvador, Bahia - Brasil  
++ GRADUAÇÃO: Licenciatura em Computação  
++ MISSÃO ATUAL: Evoluir como dev e construir projetos incríveis
++ MISSÃO SECUNDÁRIA: Participar de Hackathons e eventos        
++ ARMA FAVORITA: Cafézinho + Teclado + Mouse
+```
+<div/>
 
 | 🩸 HP | 🔮 MP | ⚡ XP |
 |:---:|:---:|:---:|
-| `██████████ 100%` | `█████████░ 90%` | `████████░░ 80%` |
+| `██████████ 100%` | `██████████ 100%` | `████░░░░ 50%` |
 
-</div>
-
-## ⚔️ `SKILL_TREE` — Habilidades
+## ⚔️ `HABILIDADES E FERRAMENTAS`
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0033)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8A2BE2)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0033)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=8A2BE2)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=FF0033)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-000000?style=for-the-badge&logo=googleappsscript&logoColor=8A2BE2)
-
+  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,figma,git,github," alt="Minhas tecnologias" />
 </div>
 
----
+## 📡 `CONNECT` — Entre na minha party
 
-## 🕹️ `INVENTORY` — Setup & Ferramentas
+## 📡 `CONNECT` — Entre na minha party
 
 <div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF0033)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0033)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8A2BE2)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0033)
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=8A2BE2)
-
-</div>
+  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="www.linkedin.com/in/pedro-henrique-souza-dev" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
+  </a>
