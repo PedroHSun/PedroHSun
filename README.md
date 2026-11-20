@@ -34,18 +34,16 @@
 ## ⚔️ `HABILIDADES E FERRAMENTAS`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,figma,git,github," alt="Minhas tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,figma,git,github," alt="Minhas tecnologias" />
 </div>
 
-## 📡 `CONNECT` — Entre na minha party
-
-## 📡 `CONNECT` — Entre na minha party
+## 📡 `CONTATOS` 
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="www.linkedin.com/in/pedro-henrique-souza-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="www.linkedin.com/in/pedro-henrique-souza-dev" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:pedro.hsf0620@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
   </a>
