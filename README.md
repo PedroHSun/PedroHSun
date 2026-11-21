@@ -18,23 +18,26 @@
   <img src="./profile-box.svg" alt="Perfil de Pedro Henrique" />
 </div>
 
-| 🩸 HP | 🔮 MP | ⚡ XP |
-|:---:|:---:|:---:|
-| `██████████ 100%` | `██████████ 100%` | `████░░░░ 50%` |
-
-## ⚔️ `HABILIDADES E FERRAMENTAS`
+## ⚔️ `HABILIDADES_E_FERRAMENTAS`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,figma,git,github," alt="Minhas tecnologias" />
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=8A2BE2)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2)
+<br/>
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=8A2BE2)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2)
+
 </div>
 
-## 📡 `CONTATOS` 
+## 📡 `CONTATOS`
 
 <div align="center">
-  <a href="www.linkedin.com/in/pedro-henrique-souza-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="www.linkedin.com/in/pedro-henrique-souza-dev" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pedro.hsf0620@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=39FF14)](https://linkedin.com/in/SEU_USUARIO) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:seuemail@exemplo.com)
+
+</div>
