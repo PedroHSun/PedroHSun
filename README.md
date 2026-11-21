@@ -41,3 +41,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=39FF14)](https://linkedin.com/in/pedro-henrique-souza-dev/) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:pedro.hsf0620@gmail.com)
 
 </div>
+
+<img 
+    alt="Tecnologias mais usadas" 
+    height="195" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSun&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&bg_color=000000&title_color=39FF14&text_color=FFFFFF&border_color=8A2BE2" 
+  />
+</p>
