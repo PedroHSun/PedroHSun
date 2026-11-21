@@ -14,19 +14,9 @@
   <img src="farol-da-barra.svg" alt="Farol da Barra em pixel art" width="640" />
 <div/>
 
-## 🎮 `PERFIL`
 <div align="center">
-
-  Olá, meu nome é Pedro Henrique e sou um jovem estudante da Bahia que ama tecnologia, 
-```diff
-+ CLASSE: Desenvolvedor Full Stack       
-+ LOCALIZAÇÃO: Salvador, Bahia - Brasil  
-+ GRADUAÇÃO: Licenciatura em Computação  
-+ MISSÃO ATUAL: Evoluir como dev e construir projetos incríveis
-+ MISSÃO SECUNDÁRIA: Participar de Hackathons e eventos        
-+ ARMA FAVORITA: Cafézinho + Teclado + Mouse
-```
-<div/>
+  <img src="./profile-box.svg" alt="Perfil de Pedro Henrique" />
+</div>
 
 | 🩸 HP | 🔮 MP | ⚡ XP |
 |:---:|:---:|:---:|
