@@ -38,6 +38,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=39FF14)](https://linkedin.com/in/SEU_USUARIO) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logoColor=39FF14)](https://linkedin.com/in/pedro-henrique-souza-dev/) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:pedro.hsf0620@gmail.com)
 
 </div>
