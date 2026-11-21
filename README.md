@@ -3,12 +3,6 @@
 <div align="center">
   <img src="nome-pixel.svg" alt="Olá, meu nome é Pedro Henrique. Seja bem vindo!" width="800" />
 </div>
-<div align="center>
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&labelColor=000000)
-![Class](https://img.shields.io/badge/CLASS-DEVELOPER-8A2BE2?style=for-the-badge&labelColor=000000)
-
-</div>
 
 <div align="center">
   <img src="farol-da-barra.svg" alt="Farol da Barra em pixel art" width="640" />
